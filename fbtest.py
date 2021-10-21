@@ -2,8 +2,8 @@ import time
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
-loginname = 'jainmit23@gmail.com'
-password = 'jaijinendra23'
+loginname = 'Your EmailId'
+password = 'Your Password'
 chrdriv = "E:\\Project 1 - Selenium\\chromedriver.exe"
 driver = webdriver.Chrome(chrdriv)
 
